@@ -18,5 +18,4 @@ jobs:
         java-version: 11
 
     - name: Compile
-      run: |
-	mvn package
+      run: mvn package
